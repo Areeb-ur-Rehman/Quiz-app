@@ -7,13 +7,25 @@ const quizData = [
         d: '85',
         correct: 'c' 
     }, {
-        question: 'What is the best used programming language in 2023?',
-        a: 'Javascript',
-        b: 'Python',
-        c: 'C',
-        d: 'Java',
+        question: 'Which is your favourite pistol?',
+        a: 'Bretta 92fs',
+        b: 'Zigana',
+        c: 'Bretta TT',
+        d: 'Glock',
         correct: 'a'
     }, {
-        question: ''
+        question: 'What letter does the name of my favourite person start?>',
+        a: 'M',
+        b: 'T',
+        c: 'R',
+        d: 'H',
+        correct: 'd'
+    }, {
+        question: 'Which city called the land of burgers?',
+        a: 'Lahore',
+        b: 'Islamabad',
+        c: 'Faisalabad',
+        d: 'Multan',
+        correct: 'b'
     }
 ]
