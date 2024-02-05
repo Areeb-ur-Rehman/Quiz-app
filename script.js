@@ -34,5 +34,12 @@ const quizData = [
         c: '2019',
         d: 'none of the above',
         correct: 'd'
+    },{
+        question: 'What yaer was Javascript launched?',
+        a: '1996',
+        b: '1995',
+        c: '1994',
+        d: 'none of these',
+        correct: 'd'
     }
 ]
