@@ -25,7 +25,7 @@ const quizData = [
         a: 'Lahore',
         b: 'Islamabad',
         c: 'Faisalabad',
-        d: 'Multan',
+        d: 'Multani',
         correct: 'b'
     }, {
         question: 'What year was Javascript launched?',
