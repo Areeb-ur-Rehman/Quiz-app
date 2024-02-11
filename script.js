@@ -24,7 +24,7 @@ const quizData = [
         question: 'Which city called the land of burgers?',
         a: 'Lahore',
         b: 'Islamabad',
-        c: 'Faisalabad',
+        c: 'Faisalabadi',
         d: 'Multan',
         correct: 'b'
     }, {
